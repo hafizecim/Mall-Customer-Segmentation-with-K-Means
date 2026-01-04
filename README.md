@@ -6,6 +6,20 @@ Amaç; müşterileri benzer davranışlarına göre gruplamak ve bu grupları **
 
 ---
 
+## 📂 İçindekiler
+- [Proje Hakkında](#proje-hakkında)
+- [Veri Seti](#veri-seti)
+- [Adım Adım Çözüm](#adım-adım-çözüm)
+  - [1️⃣ Kütüphaneler](#1-kütüphaneler)
+  - [2️⃣ Veri Keşfi (EDA)](#2-veri-keşfi-eda)
+  - [3️⃣ Veri Görselleştirme](#3-veri-görselleştirme)
+  - [4️⃣ K-Means ile Kümeleme](#4-k-means-ile-kümeleme)
+  - [5️⃣ Küme Sayısını Belirleme](#5-küme-sayısını-belirleme)
+  - [6️⃣ Sonuçların Yorumlanması](#6-sonuçların-yorumlanması)
+- [📌 Notlar](#notlar)
+
+---
+
 ## 📌 Proje Özeti
 
 * **Problem Türü:** Unsupervised Learning – Clustering
